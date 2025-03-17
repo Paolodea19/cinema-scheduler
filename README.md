@@ -11,7 +11,7 @@ Cinema Scheduler è un'applicazione per pianificare e visualizzare i film in pro
 
 1. Clona il repository:
 
-git clone https://github.com/Paolodea19/cinema-scheduler/tree/master
+git clone https://github.com/Paolodea19/cinema-scheduler.git
 
 
 2. Naviga nella directory del progetto e avvia il server:
